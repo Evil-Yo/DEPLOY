@@ -16,6 +16,7 @@ spec:
         image: arunmagi/html-app
         ports:
         - containerPort: 80
+---
 
 kind: Service
 metadata:
